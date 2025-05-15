@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&pause=1000&color=black&center=true&vCenter=true&width=1000&height=50&lines=Hello+There+👋+I'm+Atharva+Dhokrat;Full-Stack+Developer;MERN+Stack+Expert;Open+Source+Contributor;Building+End-to-End+Web+Apps)](https://git.io/typing-svg)
 
 <h3 align="center">
-  A Passionate Full-Stack Developer and Coding Enthusiast <img src="https://cdn-icons-png.flaticon.com/512/2202/2202230.png" alt="Star" width="25" height="25"/> <img src="https://cdn-icons-png.flaticon.com/512/726/726702.png" alt="Rocket" width="25" height="25"/>
+  A Passionate DevOps and Cloud Enthusiast <img src="https://cdn-icons-png.flaticon.com/512/2202/2202230.png" alt="Star" width="25" height="25"/> <img src="https://cdn-icons-png.flaticon.com/512/726/726702.png" alt="Rocket" width="25" height="25"/>
 </h3>
 
 ## 🔥 Achievements & Projects 🏆
