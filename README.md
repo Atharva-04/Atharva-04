@@ -11,12 +11,12 @@
 ## 🔥 Achievements & Projects 🏆
 
 - 💻 **Current Projects:**
-  - Developing a **MERN stack e-commerce platform** with user authentication and payment integration.
+  - Contenarize & orchestrated Node.js Applicatiion incorporatiing fault-tolerance and auto healing features
   - Working on a **course-selling application** that allows users to browse and purchase courses.
-  - Building a **food delivery system** featuring a responsive UI and real-time order tracking.
+  - Built a End-To-End Webhook based CI-CD pipeline with auto rolling and RBAC policies
 
 - 🌱 **Learning Journey:**
-  - Expanding my knowledge in **DevOps** practices, focusing on **Docker** and **Kubernetes** to enhance deployment processes.
+  - Expanding my knowledge in **DevOps** practices, focusing on **GCP** and **Ansible** to enhance deployment processes.
   - Exploring **Machine Learning** concepts like text analysis, prediction, and sentiment analysis to integrate into future projects.
 
 - 🎯 **Collaboration Goals:**
